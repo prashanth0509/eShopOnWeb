@@ -9,7 +9,7 @@ env:
   LOCATION: CentralUS
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: df0f9628-9472-4ce6-bff5-74c20bfbc0c7
-  WEBAPP-NAME: az400-webapp-super
+  WEBAPP-NAME: az400-webapp-hi
 
 
 jobs:
